@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Wang Linke
-[![Github stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&include_all_commits=true)](https://github.com/YourUsername/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)](https://github.com/YourUsername/github-readme-stats)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=YourRepositoryName)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&include_all_commits=true)](https://github.com/wanglinke521/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanglinke521&layout=compact)](https://github.com/wanglinke521/github-readme-stats)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wanglinke521&repo=wanglinke)
 
 
 Here are some ideas to get you started:
